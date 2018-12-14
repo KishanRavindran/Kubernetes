@@ -21,7 +21,7 @@
   
   The Service file is where which helps the Pods to find way to keep track of the Pods inside the cluster. The Service is an abstraction which defines a logical set of Pods and a policy by which to access them - sometimes called a micro-service.
   
-  For connecting the nexus in kubernetes we need to create two files. Here i am going to create them as Deployment() and Service() files.
+  For connecting the nexus in kubernetes we need to create two files. Here i am going to create them as Deployment(https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Deployment.yaml) and Service() files.
   
   
 
