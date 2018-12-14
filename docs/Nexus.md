@@ -81,6 +81,19 @@ You can also check the above contents in the minikube Dashboard itself by giving
          
 in the terminal which will one in the browser.
 
+![UI](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_077.png?raw=true"UI")
+
+Deployment
+
+![deploy](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_078.png?raw=true"deploy")
+
+Service
+
+![Service](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_079.png?raw=true"Service")
+
+Pod
+
+![Pod](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_080.png?raw=true"Pod")
 
 Once you have checked you need to open your nexus in the browser. For that you need to get the minikube IP address and the port number of the nexus from the service.
 
@@ -97,7 +110,8 @@ You can get the minikube IP address by giving
       
   From the above content you need to take the port number 32000 and add it to the minikube ip. Once you have done that you will be open the nexus Repository in the browser.
   
+  ![nexus](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_081.png?raw=true"nexus")
   
-  Once you have opened it you can login with the default username and password which is admin/admin123.After you can change the credentials for security purpose.
+  Once you have opened it you can login with the default username and password which is admin/admin123.After you can change the credentials for security purpose. 
   
   
