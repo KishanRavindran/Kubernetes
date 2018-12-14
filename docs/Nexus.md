@@ -113,5 +113,3 @@ You can get the minikube IP address by giving
   ![nexus](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Selection_081.png?raw=true"nexus")
   
   Once you have opened it you can login with the default username and password which is admin/admin123.After you can change the credentials for security purpose. 
-  
-  
