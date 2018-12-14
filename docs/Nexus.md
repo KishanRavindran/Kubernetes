@@ -8,8 +8,8 @@
 1. [Nexus Installtion](#nexus-installation)
 
 # Prerequisites
- Install minikube(https://kubernetes.io/docs/tasks/tools/install-minikube/)<br/>
- Install VM (https://www.virtualbox.org/wiki/Downloads)
+ [Install minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)<br/>
+ [Install VM](https://www.virtualbox.org/wiki/Downloads)
  
 # Nexus Installation<br/>
    Nexus  is a repository manager. It allows you to proxy, collect, and manage your dependencies so that you are not constantly juggling a collection of JARs. It makes it easy to distribute your software. Internally, you configure your build to publish artifacts to Nexus and they then become available to other developers.<br/> 
@@ -35,7 +35,7 @@
   
   The Service file is where which helps the Pods to find way to keep track of the Pods inside the cluster. The Service is an abstraction which defines a logical set of Pods and a policy by which to access them - sometimes called a micro-service.
   
-  For connecting the nexus in kubernetes we need to create two files. Here i am going to create them as Deployment(https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Deployment.yaml) and Service(https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Service.yaml) files. 
+  For connecting the nexus in kubernetes we need to create two files. Here i am going to create them as [Deployment](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Deployment.yaml) and [Service](https://github.com/KishanRavindran/Kubernetes/blob/master/docs/Service.yaml) files. 
   
  Once you have created them as above you need to open the terminal give the following command to implement Deployment file by
  
